@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **javascript**
 
-- 👨‍💻 All of my projects are available at [https://enggvishalportfolio.netlify.app](https://enggvishalportfolio.netlify.app)
+- 👨‍💻 My project are available here [https://enggvishalportfolio.netlify.app](https://enggvishalportfolio.netlify.app)
 
 - 💬 Ask me about **Coding and Programming**
 

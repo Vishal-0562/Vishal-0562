@@ -38,6 +38,7 @@
 
 <a href="https://github.com/vishal-0562/github-readme-activity-graph"><img alt="SVishal Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishal-0562&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+<p align="center">![snake gif](https://github.com/Vishal-0562/Vishal-0562/blob/output/github-contribution-grid-snake.gif)</p>
 
 # <h3>Connect with me:</h3>
 <p align="left">

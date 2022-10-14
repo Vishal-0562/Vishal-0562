@@ -49,3 +49,8 @@
 <a href ="https://www.facebook.com/profile.php?id=100012722704452"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
  
 </p>
+# ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vishal-0562">
+</a>
+<a href="https://github.com/vishal-0562?tab=followers"><img src="https://img.shields.io/github/followers/vishal-0562?label=Followers&style=social" alt="GitHub Badge"></a>

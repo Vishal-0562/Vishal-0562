@@ -11,7 +11,8 @@
 - 👨‍💻 My project are available here [Portfolio](https://enggvishalportfolio.netlify.app)
 - 💬 Ask me about **Coding and Programming**
 - ⚡ Fun fact **playing games and play with Rubik's Cube**
-
+       ![snake gif](https://github.com/Vishal-0562/Vishal-0562/blob/output/github-contribution-grid-snake.svg)
+       ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-0562&theme=vue)
 # <h3 align="left">Coding Profile:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/vishal_0562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal_0562" height="30" width="40" style="color:white"></a>
@@ -38,8 +39,6 @@
 
 <a href="https://github.com/vishal-0562/github-readme-activity-graph"><img alt="SVishal Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishal-0562&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-    ![snake gif](https://github.com/Vishal-0562/Vishal-0562/blob/output/github-contribution-grid-snake.svg)
-
 # <h3>Connect with me:</h3>
 <p align="left">
  <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

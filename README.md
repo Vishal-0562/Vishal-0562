@@ -1,28 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-0562&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-0562" /> </p>
 
 - 🔭 I’m currently working on **Portfolio**
-
 - 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **web development**
-
 - 🤝 I’m looking for help with **javascript**
-
-- 👨‍💻 My project are available here [https://enggvishalportfolio.netlify.app](https://enggvishalportfolio.netlify.app)
-
+- 👨‍💻 My project are available here [Portfolio](https://enggvishalportfolio.netlify.app)
 - 💬 Ask me about **Coding and Programming**
-
-- 📫 How to reach me **Vishalsinghhoney0562@gmail.com**
-
-- ⚡ Fun fact **playing games and play with Rubik's Cube*
+- ⚡ Fun fact **playing games and play with Rubik's Cube**
 
 # <h3 align="left">Coding Profile:</h3>
 <p align="left">
-
-
 <a href="https://www.codechef.com/users/vishal_0562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal_0562" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishalsinghhone2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishalsinghhone2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalsinghhoney0562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalsinghhoney0562" height="30" width="40" /></a>
@@ -35,13 +26,18 @@
 # <h3 align="left">📊 GitHub Stats:<h3>
 ![](https://github-readme-stats.vercel.app/api?username=vishal-0562&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-0562&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-0562&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal0562&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <br/>
+<br/>
 
-## Connect with me:
+<a href="https://github.com/vishal-0562/github-readme-activity-graph"><img alt="SVishal Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishal-0562&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+# Connect with me:
 <p align="left">
  <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </p>

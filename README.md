@@ -25,8 +25,8 @@
 
 # <h3 align="left">📊 GitHub Stats:<h3>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Vishal-0562/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-0562&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/>
@@ -46,6 +46,6 @@
  <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href ="https://www.facebook.com/profile.php?id=100012722704452"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
  
 </p>

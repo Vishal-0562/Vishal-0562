@@ -17,14 +17,12 @@
 
 - 📫 How to reach me **Vishalsinghhoney0562@gmail.com**
 
-- ⚡ Fun fact **I am funny and friendly person**
+- ⚡ Fun fact **playing games and play with Rubik's Cube*
 
-# <h3 align="left">Connect with me:</h3>
+# <h3 align="left">Coding Profile:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishalsingh0562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalsingh0562" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal_singh_0562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_singh_0562" height="30" width="40" /></a>
-<a href="https://www.behance.net/vishalsingh0562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vishalsingh0562" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/welogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="welogger" height="30" width="40" /></a>
+
+
 <a href="https://www.codechef.com/users/vishal_0562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishal_0562" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishalsinghhone2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishalsinghhone2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalsinghhoney0562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalsinghhoney0562" height="30" width="40" /></a>
@@ -39,3 +37,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-0562&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-0562&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Connect with me:
+<p align="left">
+ <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>

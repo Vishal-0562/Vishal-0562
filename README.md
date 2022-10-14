@@ -37,19 +37,17 @@
 <br/>
 
 <a href="https://github.com/vishal-0562/github-readme-activity-graph"><img alt="SVishal Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishal-0562&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
-# Connect with me:
+# <h3>Connect with me:</h3>
 <p align="left">
  <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://www.facebook.com/profile.php?id=100012722704452"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
- 
 </p>
-# ❤ Views and Followers
+    
+# <h3>View & Followers:</h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vishal-0562">
 </a>

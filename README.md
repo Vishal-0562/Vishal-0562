@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://media.tenor.com/uttc4aityr4aaaad/full stack developer.gif" width="30px"> I'm Vishal Singh</h1>
+<img width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+<h1 align="center">Hi👋<img src="https://media.tenor.com/uttc4aityr4aaaad/full stack developer.gif" width="30px">I'm Vishal Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-0562&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-0562" /> </p>

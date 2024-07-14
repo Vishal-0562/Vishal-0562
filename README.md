@@ -1,15 +1,16 @@
-<img width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+<img width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif"/>
 <h1 align="center">Hi👋<img src="https://media.tenor.com/uttc4aityr4aaaad/full stack developer.gif" width="30px">I'm Vishal Singh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-0562&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-0562" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently doing on **GATE PREAPRATION**
+- 🌱 I’m currently working on **React.js + Typescript** Project
 - 👯 I’m looking to collaborate on **web development**
 - 🤝 I’m looking for help with **javascript**
-- 👨‍💻 My project are available here [Portfolio](https://enggvishalportfolio.netlify.app)
+- 👨‍💻 My project are available here [Portfolio](https://singhvishal.netlify.app)
 - 💬 Ask me about **Coding and Programming**
+- ⭐ I Like to do solve critical problem and love to explore the new Technologies and things.
 - ⚡ Fun fact **playing games and play with Rubik's Cube**
        ![snake gif](https://github.com/Vishal-0562/Vishal-0562/blob/output/github-contribution-grid-snake.svg)
        ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-0562&theme=vue)
@@ -37,12 +38,13 @@
  <br/>
 <br/>
 
-<a href="https://github.com/vishal-0562/github-readme-activity-graph"><img alt="SVishal Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishal-0562&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+[![Vishal Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-0562&bg_color=000000&color=ffffff&line=8400db&point=8329ae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 # <h3>Connect with me:</h3>
 <p align="left">
  <a href = "https://www.linkedin.com/in/vishalsingh0562/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/VishalS15017218"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/Vishalcoder"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/vishal_singh_0562/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://www.facebook.com/profile.php?id=100012722704452"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 </p>
